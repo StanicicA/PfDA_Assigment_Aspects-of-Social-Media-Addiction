@@ -1,5 +1,5 @@
-# Raisins_Data Set
 
+<<<<<<< HEAD
 ```bash
 ## Data Set Information:
 Images of Kecimen and Besni raisin varieties grown in Turkey were obtained with CVS. 
@@ -49,3 +49,5 @@ Resources:
     6.https://scikit-learn.org/stable/tutorial/basic/tutorial.html
     7.https://datascience.stackexchange.com/questions
     8.https://www.makeareadme.com/
+=======
+>>>>>>> 03f708e247eeb698d858dec3d2a8f40f512f2411
