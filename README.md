@@ -2,7 +2,9 @@
 
 ```bash
 ## Data Set Information:
-Images of Kecimen and Besni raisin varieties grown in Turkey were obtained with CVS. A total of 900 raisin grains were used, including 450 pieces from both varieties. These images were subjected to various stages of pre-processing and 7 morphological features were extracted. These features have been classified using three different artificial intelligence techniques.
+Images of Kecimen and Besni raisin varieties grown in Turkey were obtained with CVS. 
+A total of 900 raisin grains were used, including 450 pieces from both varieties. 
+These images were subjected to various stages of pre-processing and 7 morphological features were extracted.
 ```
 
 ## Attribute Information:
